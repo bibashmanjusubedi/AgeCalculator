@@ -1,4 +1,4 @@
-# Accordion
+# Age Calculator
 ## Instructions
 * Download zip or clone the project
 * Install NodeJS
